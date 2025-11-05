@@ -1,3 +1,0 @@
-slurmstepd: error: execve(): script.sh: No such file or directory
-srun: error: cmp011: task 0: Exited with exit code 2
-srun: launch/slurm: _step_signal: Terminating StepId=8556132.0
