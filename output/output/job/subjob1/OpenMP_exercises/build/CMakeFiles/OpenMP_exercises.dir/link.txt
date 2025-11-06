@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/OpenMP_exercises.dir/pi/pi.c.o CMakeFiles/OpenMP_exercises.dir/main.c.o CMakeFiles/OpenMP_exercises.dir/benchmarking.c.o CMakeFiles/OpenMP_exercises.dir/matrix_vector/mv.c.o -o OpenMP_exercises  -lm /usr/lib/gcc/x86_64-redhat-linux/8/libgomp.so /usr/lib64/libpthread.so
